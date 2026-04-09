@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3863-power-grid-maintenance](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3863-power-grid-maintenance) |
 ## Greedy
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search
 |  |
@@ -246,4 +248,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0190-reverse-bits) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
