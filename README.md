@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3488-closest-equal-element-queries](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3488-closest-equal-element-queries](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3488-closest-equal-element-queries](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/3488-closest-equal-element-queries) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Sliding Window
