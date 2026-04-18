@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0202-happy-number) |
+| [0347-top-k-frequent-elements](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1980-find-unique-binary-string](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1980-find-unique-binary-string) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0001-two-sum) |
+| [0347-top-k-frequent-elements](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1200-minimum-absolute-difference](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1200-minimum-absolute-difference) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [1200-minimum-absolute-difference](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Enumeration
 |  |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -256,5 +261,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0190-reverse-bits) |
+| [0347-top-k-frequent-elements](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/3653-xor-after-range-multiplication-queries-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
