@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2833-furthest-point-from-origin](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/2833-furthest-point-from-origin) |
 ## Enumeration
 |  |
 | ------- |
