@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0061-rotate-list) |
 | [0202-happy-number](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0202-happy-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Array
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0061-rotate-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
