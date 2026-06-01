@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2121-intervals-between-identical-elements](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/2121-intervals-between-identical-elements) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2169-simple-bank-system](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Dynamic Programming
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2784-check-if-array-is-good](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/2784-check-if-array-is-good) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
