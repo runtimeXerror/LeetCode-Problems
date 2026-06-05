@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0061-rotate-list) |
 | [0202-happy-number](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0202-happy-number) |
 | [1861-rotating-the-box](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/1861-rotating-the-box) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0015-3sum) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0179-largest-number) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0015-3sum) |
 | [0179-largest-number](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [1200-minimum-absolute-difference](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1200-minimum-absolute-difference) |
