@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/3689-maximum-total-subarray-value-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3863-power-grid-maintenance](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3863-power-grid-maintenance) |
 ## Greedy
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3689-maximum-total-subarray-value-i](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/3689-maximum-total-subarray-value-i) |
 ## Dynamic Programming
 |  |
 | ------- |
