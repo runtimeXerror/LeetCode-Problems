@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0202-happy-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0179-largest-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1700-minimum-time-to-make-rope-colorful) |
