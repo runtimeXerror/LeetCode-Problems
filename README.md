@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1861-rotating-the-box](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1929-concatenation-of-array](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0067-add-binary) |
+| [1929-concatenation-of-array](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2274-keep-multiplying-found-values-by-two) |
