@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1200-minimum-absolute-difference](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1200-minimum-absolute-difference) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1470-shuffle-the-array](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/1470-shuffle-the-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
