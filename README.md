@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0645-set-mismatch) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1980-find-unique-binary-string](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1980-find-unique-binary-string) |
 | [2121-intervals-between-identical-elements](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/2121-intervals-between-identical-elements) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1200-minimum-absolute-difference](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1200-minimum-absolute-difference) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/1470-shuffle-the-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0645-set-mismatch) |
 | [1200-minimum-absolute-difference](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1200-minimum-absolute-difference) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -337,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
