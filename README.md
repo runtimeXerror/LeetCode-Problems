@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
+| [0645-set-mismatch](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0645-set-mismatch) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1980-find-unique-binary-string](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1980-find-unique-binary-string) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1200-minimum-absolute-difference](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1200-minimum-absolute-difference) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0015-3sum) |
 | [0179-largest-number](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
+| [0645-set-mismatch](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0645-set-mismatch) |
 | [1200-minimum-absolute-difference](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0401-binary-watch) |
+| [0645-set-mismatch](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0645-set-mismatch) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Stack
 |  |
