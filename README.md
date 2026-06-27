@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0202-happy-number) |
+| [0264-ugly-number-ii](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0645-set-mismatch) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0202-happy-number) |
+| [0264-ugly-number-ii](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0264-ugly-number-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/1840-maximum-building-height) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0062-unique-paths) |
+| [0264-ugly-number-ii](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0264-ugly-number-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
