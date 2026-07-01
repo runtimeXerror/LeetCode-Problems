@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0015-3sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0179-largest-number) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0062-unique-paths) |
+| [0120-triangle](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0120-triangle) |
 | [0264-ugly-number-ii](https://github.com/runtimeXerror/LeetCode-Problem/tree/master/0264-ugly-number-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1458-max-dot-product-of-two-subsequences) |
